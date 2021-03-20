@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="1440px" height="495px" version="1.1" viewBox="-3.00396728515625 -0.43535590171813965 512 512" xmlns="http://www.w3.org/2000/svg">
-  <title>logo</title>
-  <defs>
-    <linearGradient x1="0.5" y1="0" x2="0.5" y2="1" id="linearGradient-1">
-      <stop stop-color="#0070E5" offset="0"/>
-      <stop stop-color="#003DC6" offset="1"/>
-    </linearGradient>
-  </defs>
-  <g id="p-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(0.976367, -0.002969, 0, 0.967331, 1.402902, 11.068409)">
-    <g id="p-4" transform="translate(-240.000000, -293.000000)">
-      <g id="p" transform="translate(240.000000, 293.000000)">
-        <path d="M222.999471,200.999471 L222.999471,494.528471 L11.2197334,282.748737 C-2.44861685,269.080387 -2.44861685,246.919613 11.2197334,233.251263 L43.4704707,200.999471 L222.999471,200.999471 Z M472.528471,200.999471 L504.780267,233.251263 C518.448617,246.919613 518.448617,269.080387 504.780267,282.748737 L292.999471,494.528471 L292.999471,200.999471 L472.528471,200.999471 Z M282.748737,11.2197334 L402.528471,130.999471 L113.470471,130.999471 L233.251263,11.2197334 C246.919613,-2.44861685 269.080387,-2.44861685 282.748737,11.2197334 Z" id="p" fill="url(#linearGradient-1)"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="259px" viewBox="0 0 250 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trust-white</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#668BDD" offset="0%"></stop>
+            <stop stop-color="#013EC6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M228,279 L284,337.645502 L284,374.283677 L228,413.143581 L228,279 Z M131,155 L381,155.147932 L353,210.147932 L284,210.147932 L284,310.645502 L228,252 L228,210.39463 L159,210.39463 L131,155 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-131.000000, -155.000000)">
+            <circle id="椭圆形" fill="#EA4436" cx="317" cy="358" r="18"></circle>
+            <g id="路径-4">
+                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>
